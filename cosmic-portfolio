@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/Manzy31/cosmic-portfolio.git
+git add .
+git commit -m "Initial portfolio upload"
+git push -u origin master
